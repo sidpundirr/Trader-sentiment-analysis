@@ -1,0 +1,5 @@
+Test,F-Statistic,"df (between, within)",Significant (p < 0.001),Greed Mean PnL ($),Extreme Greed Mean PnL ($),Welch t-statistic,Degrees of Freedom,Chi2-Statistic,Altcoins Mean PnL ($),Majors Mean PnL ($),t-statistic
+ANOVA on Net PnL across Sentiment Regimes,21.73336315042996,"(3, 184259)",True,,,,,,,,
+Greed vs Extreme Greed PnL Comparison (Welch t-test),,,True,87.22429667357575,24.440205478454462,8.89148013111966,39682.68086640779,,,,
+Chi-Square Test: Direction (Long/Short) vs Sentiment Regime,,,True,,,,3.0,4468.502819587248,,,
+Altcoins vs Majors PnL in Extreme Greed (Welch t-test),,,True,,,,4408.982550555825,,41.07756945785967,-5.19672148194893,6.177280627131335
